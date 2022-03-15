@@ -1,3 +1,3 @@
 # Blockchain-Implementation
 
-Refer Writeup PDF in the repository
+Read PDF in the repository
